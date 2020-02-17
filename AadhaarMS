@@ -1,0 +1,1 @@
+spring.datasource.url=jdbc:h2:file:./data/aadhaar:AUTO_SERVER=true;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false;
